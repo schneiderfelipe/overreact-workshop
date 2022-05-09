@@ -17,6 +17,20 @@ R -> TS -> P
 *xyzfile -1 1 init.xyz
 ```
 
+## Optimizing transition states
+
+```
+! xTB2 OptTS NumFreq IRC
+
+*xyzfile -1 1 init.xyz
+
+%geom
+ ts_mode
+  {B 0 5}
+ end
+end
+```
+
 ## Relaxed scans
 
 Useful when you only know the reactants.
