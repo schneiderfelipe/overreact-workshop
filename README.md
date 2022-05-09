@@ -21,6 +21,18 @@ R -> TS -> P
 
 Useful when you only know the reactants.
 
+```
+! xTB2 ScanTS NumFreq IRC
+
+*xyzfile -1 1 init.xyz
+
+%geom
+ scan
+  B 0 5 = 3.164, 2.08, 11
+ end
+end
+```
+
 ## Nudged elastic band
 
 Useful when you have a good guess on the products (and possibly a not-that-good
