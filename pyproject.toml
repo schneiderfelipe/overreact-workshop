@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "overreact-workshop"
+version = "0.1.0"
+description = "Files for the overreact workshop"
+authors = ["Felipe S. S. Schneider <schneider.felipe.5@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9,<3.10"
+
+[tool.poetry.dev-dependencies]
+overreact = {version = "^1.0.2", extras = ["cli", "solvents", "fast"]}
+seaborn = "^0.11.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
