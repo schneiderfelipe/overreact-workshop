@@ -1,0 +1,7 @@
+! xTB2 Opt NumFreq
+
+*xyzfile -1 1 init.xyz
+
+%pal
+ nprocs 2
+end
