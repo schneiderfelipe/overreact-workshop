@@ -6,7 +6,7 @@ overreact.
 ## Idea
 
 ```
-R -> TS -> P
+R(g) -> TS#(g) -> P(g)
 ```
 
 ## Optimizing reactants

@@ -301,7 +301,7 @@ Number of degrees of freedom            .... 20
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:11.995     
+ * started run on 2022/05/09 at 10:50:11.918     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -315,7 +315,7 @@ Number of degrees of freedom            .... 20
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.14258739916604
+          first test random number   :      0.79291137326391
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -417,14 +417,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.1067674 Eh            2.9053 eV
              Fermi-level           -0.1680260 Eh           -4.5722 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.015 sec
- SCC setup                      ...        0 min,  0.000 sec (  1.053%)
- Dispersion                     ...        0 min,  0.000 sec (  0.272%)
- classical contributions        ...        0 min,  0.000 sec (  0.114%)
- integral evaluation            ...        0 min,  0.002 sec ( 13.757%)
- iterations                     ...        0 min,  0.009 sec ( 59.557%)
- molecular gradient             ...        0 min,  0.002 sec ( 14.121%)
- printout                       ...        0 min,  0.002 sec ( 10.823%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.008 sec
+ SCC setup                      ...        0 min,  0.000 sec (  1.931%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.653%)
+ classical contributions        ...        0 min,  0.000 sec (  0.275%)
+ integral evaluation            ...        0 min,  0.002 sec ( 18.780%)
+ iterations                     ...        0 min,  0.004 sec ( 50.713%)
+ molecular gradient             ...        0 min,  0.002 sec ( 25.613%)
+ printout                       ...        0 min,  0.000 sec (  1.476%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -528,16 +528,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:12.034     
+ * finished run on 2022/05/09 at 10:50:11.969     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.039 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.044 sec
- * ratio c/w:     1.135 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.051 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.064 sec
+ * ratio c/w:     1.263 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.018 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.021 sec
- * ratio c/w:     1.180 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.009 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.015 sec
+ * ratio c/w:     1.787 speedup
 
 
 -------------------------   --------------------
@@ -744,7 +744,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:12.088     
+ * started run on 2022/05/09 at 10:50:12.034     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -758,7 +758,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.56480990024695
+          first test random number   :      0.01740026310041
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -862,14 +862,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.1065669 Eh            2.8998 eV
              Fermi-level           -0.1680365 Eh           -4.5725 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.008 sec
- SCC setup                      ...        0 min,  0.000 sec (  2.110%)
- Dispersion                     ...        0 min,  0.000 sec (  0.566%)
- classical contributions        ...        0 min,  0.000 sec (  0.252%)
- integral evaluation            ...        0 min,  0.001 sec ( 19.549%)
- iterations                     ...        0 min,  0.004 sec ( 52.775%)
- molecular gradient             ...        0 min,  0.002 sec ( 22.596%)
- printout                       ...        0 min,  0.000 sec (  1.528%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.014 sec
+ SCC setup                      ...        0 min,  0.002 sec ( 15.295%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.353%)
+ classical contributions        ...        0 min,  0.000 sec (  0.234%)
+ integral evaluation            ...        0 min,  0.002 sec ( 11.439%)
+ iterations                     ...        0 min,  0.007 sec ( 50.089%)
+ molecular gradient             ...        0 min,  0.002 sec ( 14.595%)
+ printout                       ...        0 min,  0.001 sec (  6.912%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -973,16 +973,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:12.122     
+ * finished run on 2022/05/09 at 10:50:12.076     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.034 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.037 sec
- * ratio c/w:     1.090 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.042 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.052 sec
+ * ratio c/w:     1.243 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.008 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.015 sec
- * ratio c/w:     1.891 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.015 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.023 sec
+ * ratio c/w:     1.522 speedup
 
 
 -------------------------   --------------------
@@ -1173,7 +1173,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:12.170     
+ * started run on 2022/05/09 at 10:50:12.128     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -1187,7 +1187,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.05000244278936
+          first test random number   :      0.42039658582476
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -1290,14 +1290,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.0988993 Eh            2.6912 eV
              Fermi-level           -0.1725789 Eh           -4.6961 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.009 sec
- SCC setup                      ...        0 min,  0.000 sec (  1.784%)
- Dispersion                     ...        0 min,  0.000 sec (  0.471%)
- classical contributions        ...        0 min,  0.000 sec (  0.213%)
- integral evaluation            ...        0 min,  0.001 sec ( 11.733%)
- iterations                     ...        0 min,  0.005 sec ( 56.047%)
- molecular gradient             ...        0 min,  0.002 sec ( 20.441%)
- printout                       ...        0 min,  0.001 sec (  7.695%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.008 sec
+ SCC setup                      ...        0 min,  0.000 sec (  2.445%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.629%)
+ classical contributions        ...        0 min,  0.000 sec (  3.306%)
+ integral evaluation            ...        0 min,  0.001 sec ( 19.207%)
+ iterations                     ...        0 min,  0.004 sec ( 52.682%)
+ molecular gradient             ...        0 min,  0.002 sec ( 19.593%)
+ printout                       ...        0 min,  0.000 sec (  1.570%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -1401,16 +1401,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:12.204     
+ * finished run on 2022/05/09 at 10:50:12.156     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.034 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.041 sec
- * ratio c/w:     1.217 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.028 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.036 sec
+ * ratio c/w:     1.283 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.009 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.016 sec
- * ratio c/w:     1.705 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.008 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.013 sec
+ * ratio c/w:     1.579 speedup
 
 
 -------------------------   --------------------
@@ -1601,7 +1601,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:12.260     
+ * started run on 2022/05/09 at 10:50:12.204     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -1615,7 +1615,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.67216137756301
+          first test random number   :      0.39478290479469
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -1720,14 +1720,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.0857849 Eh            2.3343 eV
              Fermi-level           -0.1737126 Eh           -4.7270 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.014 sec
- SCC setup                      ...        0 min,  0.005 sec ( 37.278%)
- Dispersion                     ...        0 min,  0.000 sec (  0.428%)
- classical contributions        ...        0 min,  0.000 sec (  0.202%)
- integral evaluation            ...        0 min,  0.001 sec ( 10.539%)
- iterations                     ...        0 min,  0.005 sec ( 34.207%)
- molecular gradient             ...        0 min,  0.002 sec ( 16.168%)
- printout                       ...        0 min,  0.000 sec (  0.826%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.009 sec
+ SCC setup                      ...        0 min,  0.000 sec (  2.213%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.593%)
+ classical contributions        ...        0 min,  0.000 sec (  0.222%)
+ integral evaluation            ...        0 min,  0.001 sec ( 13.538%)
+ iterations                     ...        0 min,  0.004 sec ( 46.905%)
+ molecular gradient             ...        0 min,  0.002 sec ( 21.457%)
+ printout                       ...        0 min,  0.001 sec ( 13.762%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -1831,16 +1831,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:12.306     
+ * finished run on 2022/05/09 at 10:50:12.247     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.046 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.053 sec
- * ratio c/w:     1.147 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.043 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.058 sec
+ * ratio c/w:     1.336 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.014 sec
+ * wall-time:     0 d,  0 h,  0 min,  0.010 sec
  *  cpu-time:     0 d,  0 h,  0 min,  0.018 sec
- * ratio c/w:     1.324 speedup
+ * ratio c/w:     1.796 speedup
 
 
 -------------------------   --------------------
@@ -2031,7 +2031,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:12.358     
+ * started run on 2022/05/09 at 10:50:12.298     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -2045,7 +2045,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.96380863242025
+          first test random number   :      0.51298154220145
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -2150,14 +2150,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.0738526 Eh            2.0096 eV
              Fermi-level           -0.1737275 Eh           -4.7274 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.011 sec
- SCC setup                      ...        0 min,  0.000 sec (  1.649%)
- Dispersion                     ...        0 min,  0.000 sec (  0.537%)
- classical contributions        ...        0 min,  0.000 sec (  0.207%)
- integral evaluation            ...        0 min,  0.003 sec ( 25.486%)
- iterations                     ...        0 min,  0.006 sec ( 54.302%)
- molecular gradient             ...        0 min,  0.002 sec ( 16.058%)
- printout                       ...        0 min,  0.000 sec (  1.330%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.010 sec
+ SCC setup                      ...        0 min,  0.000 sec (  3.360%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.462%)
+ classical contributions        ...        0 min,  0.000 sec (  2.447%)
+ integral evaluation            ...        0 min,  0.001 sec ( 14.086%)
+ iterations                     ...        0 min,  0.004 sec ( 41.237%)
+ molecular gradient             ...        0 min,  0.004 sec ( 36.719%)
+ printout                       ...        0 min,  0.000 sec (  1.260%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -2261,16 +2261,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:12.390     
+ * finished run on 2022/05/09 at 10:50:12.327     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.033 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.039 sec
- * ratio c/w:     1.213 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.029 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.043 sec
+ * ratio c/w:     1.481 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.011 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.017 sec
- * ratio c/w:     1.617 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.010 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.016 sec
+ * ratio c/w:     1.654 speedup
 
 
 -------------------------   --------------------
@@ -2462,7 +2462,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:12.440     
+ * started run on 2022/05/09 at 10:50:12.377     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -2476,7 +2476,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.54634016074190
+          first test random number   :      0.19498304071536
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -2581,14 +2581,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.0635475 Eh            1.7292 eV
              Fermi-level           -0.1721150 Eh           -4.6835 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.010 sec
- SCC setup                      ...        0 min,  0.000 sec (  2.503%)
- Dispersion                     ...        0 min,  0.000 sec (  0.500%)
- classical contributions        ...        0 min,  0.000 sec (  0.219%)
- integral evaluation            ...        0 min,  0.002 sec ( 17.452%)
- iterations                     ...        0 min,  0.006 sec ( 57.907%)
- molecular gradient             ...        0 min,  0.002 sec ( 19.582%)
- printout                       ...        0 min,  0.000 sec (  1.336%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.008 sec
+ SCC setup                      ...        0 min,  0.000 sec (  2.799%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.693%)
+ classical contributions        ...        0 min,  0.000 sec (  0.377%)
+ integral evaluation            ...        0 min,  0.001 sec ( 13.613%)
+ iterations                     ...        0 min,  0.005 sec ( 63.239%)
+ molecular gradient             ...        0 min,  0.001 sec ( 17.105%)
+ printout                       ...        0 min,  0.000 sec (  1.523%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -2692,16 +2692,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:12.467     
+ * finished run on 2022/05/09 at 10:50:12.398     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.027 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.033 sec
- * ratio c/w:     1.239 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.021 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.034 sec
+ * ratio c/w:     1.633 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.010 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.016 sec
- * ratio c/w:     1.634 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.008 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.015 sec
+ * ratio c/w:     1.760 speedup
 
 
 -------------------------   --------------------
@@ -2893,7 +2893,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:12.523     
+ * started run on 2022/05/09 at 10:50:12.450     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -2907,7 +2907,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.87322685132934
+          first test random number   :      0.50465029706027
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -3014,13 +3014,13 @@ constraining FC (au)   :  0.0500
              Fermi-level           -0.1685289 Eh           -4.5859 eV
 
  SCC (total)                   0 d,  0 h,  0 min,  0.009 sec
- SCC setup                      ...        0 min,  0.000 sec (  1.999%)
- Dispersion                     ...        0 min,  0.000 sec (  0.568%)
- classical contributions        ...        0 min,  0.000 sec (  0.244%)
- integral evaluation            ...        0 min,  0.001 sec ( 17.255%)
- iterations                     ...        0 min,  0.004 sec ( 51.047%)
- molecular gradient             ...        0 min,  0.002 sec ( 26.930%)
- printout                       ...        0 min,  0.000 sec (  1.350%)
+ SCC setup                      ...        0 min,  0.000 sec (  1.177%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.355%)
+ classical contributions        ...        0 min,  0.000 sec (  0.162%)
+ integral evaluation            ...        0 min,  0.003 sec ( 34.200%)
+ iterations                     ...        0 min,  0.004 sec ( 42.316%)
+ molecular gradient             ...        0 min,  0.002 sec ( 20.058%)
+ printout                       ...        0 min,  0.000 sec (  1.231%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -3124,16 +3124,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:12.548     
+ * finished run on 2022/05/09 at 10:50:12.477     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.025 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.033 sec
- * ratio c/w:     1.312 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.027 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.040 sec
+ * ratio c/w:     1.478 speedup
  SCF:
  * wall-time:     0 d,  0 h,  0 min,  0.009 sec
  *  cpu-time:     0 d,  0 h,  0 min,  0.016 sec
- * ratio c/w:     1.786 speedup
+ * ratio c/w:     1.708 speedup
 
 
 -------------------------   --------------------
@@ -3325,7 +3325,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:12.596     
+ * started run on 2022/05/09 at 10:50:12.524     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -3339,7 +3339,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.89262124657296
+          first test random number   :      0.63066728860453
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -3444,14 +3444,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.0637956 Eh            1.7360 eV
              Fermi-level           -0.1721888 Eh           -4.6855 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.010 sec
- SCC setup                      ...        0 min,  0.000 sec (  1.595%)
- Dispersion                     ...        0 min,  0.000 sec (  0.396%)
- classical contributions        ...        0 min,  0.000 sec (  0.173%)
- integral evaluation            ...        0 min,  0.003 sec ( 30.973%)
- iterations                     ...        0 min,  0.005 sec ( 46.347%)
- molecular gradient             ...        0 min,  0.002 sec ( 18.967%)
- printout                       ...        0 min,  0.000 sec (  1.093%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.008 sec
+ SCC setup                      ...        0 min,  0.000 sec (  1.910%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.778%)
+ classical contributions        ...        0 min,  0.000 sec (  0.211%)
+ integral evaluation            ...        0 min,  0.002 sec ( 27.000%)
+ iterations                     ...        0 min,  0.004 sec ( 44.675%)
+ molecular gradient             ...        0 min,  0.002 sec ( 23.451%)
+ printout                       ...        0 min,  0.000 sec (  1.450%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -3555,16 +3555,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:12.621     
+ * finished run on 2022/05/09 at 10:50:12.548     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.026 sec
+ * wall-time:     0 d,  0 h,  0 min,  0.024 sec
  *  cpu-time:     0 d,  0 h,  0 min,  0.037 sec
- * ratio c/w:     1.447 speedup
+ * ratio c/w:     1.558 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.010 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.016 sec
- * ratio c/w:     1.556 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.009 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.015 sec
+ * ratio c/w:     1.754 speedup
 
 
 -------------------------   --------------------
@@ -3756,7 +3756,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:12.673     
+ * started run on 2022/05/09 at 10:50:12.606     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -3770,7 +3770,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.13839023828654
+          first test random number   :      0.80587917822400
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -3875,14 +3875,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.0718483 Eh            1.9551 eV
              Fermi-level           -0.1763266 Eh           -4.7981 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.008 sec
- SCC setup                      ...        0 min,  0.000 sec (  2.139%)
- Dispersion                     ...        0 min,  0.000 sec (  0.610%)
- classical contributions        ...        0 min,  0.000 sec (  0.267%)
- integral evaluation            ...        0 min,  0.002 sec ( 20.428%)
- iterations                     ...        0 min,  0.004 sec ( 52.654%)
- molecular gradient             ...        0 min,  0.002 sec ( 21.560%)
- printout                       ...        0 min,  0.000 sec (  1.578%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.010 sec
+ SCC setup                      ...        0 min,  0.000 sec (  1.562%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.425%)
+ classical contributions        ...        0 min,  0.000 sec (  0.203%)
+ integral evaluation            ...        0 min,  0.002 sec ( 16.265%)
+ iterations                     ...        0 min,  0.006 sec ( 60.831%)
+ molecular gradient             ...        0 min,  0.002 sec ( 18.272%)
+ printout                       ...        0 min,  0.000 sec (  1.898%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -3986,16 +3986,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:12.701     
+ * finished run on 2022/05/09 at 10:50:12.628     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.028 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.035 sec
- * ratio c/w:     1.238 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.022 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.036 sec
+ * ratio c/w:     1.638 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.008 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.015 sec
- * ratio c/w:     1.853 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.010 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.017 sec
+ * ratio c/w:     1.740 speedup
 
 
 -------------------------   --------------------
@@ -4187,7 +4187,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:12.755     
+ * started run on 2022/05/09 at 10:50:12.682     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -4201,7 +4201,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.01914079050858
+          first test random number   :      0.12906257480863
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -4304,14 +4304,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.0825517 Eh            2.2463 eV
              Fermi-level           -0.1794878 Eh           -4.8841 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.006 sec
- SCC setup                      ...        0 min,  0.000 sec (  2.705%)
- Dispersion                     ...        0 min,  0.000 sec (  0.712%)
- classical contributions        ...        0 min,  0.000 sec (  0.315%)
- integral evaluation            ...        0 min,  0.001 sec ( 15.702%)
- iterations                     ...        0 min,  0.003 sec ( 50.586%)
- molecular gradient             ...        0 min,  0.002 sec ( 27.180%)
- printout                       ...        0 min,  0.000 sec (  2.092%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.008 sec
+ SCC setup                      ...        0 min,  0.001 sec ( 11.866%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.623%)
+ classical contributions        ...        0 min,  0.000 sec (  1.330%)
+ integral evaluation            ...        0 min,  0.001 sec ( 16.627%)
+ iterations                     ...        0 min,  0.003 sec ( 41.665%)
+ molecular gradient             ...        0 min,  0.002 sec ( 19.275%)
+ printout                       ...        0 min,  0.001 sec (  7.995%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -4415,16 +4415,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:12.787     
+ * finished run on 2022/05/09 at 10:50:12.713     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.032 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.039 sec
- * ratio c/w:     1.204 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.030 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.044 sec
+ * ratio c/w:     1.441 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.006 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.010 sec
- * ratio c/w:     1.635 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.008 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.013 sec
+ * ratio c/w:     1.613 speedup
 
 
 -------------------------   --------------------
@@ -4616,7 +4616,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:12.838     
+ * started run on 2022/05/09 at 10:50:12.768     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -4630,7 +4630,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.63316433076699
+          first test random number   :      0.63542139344421
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -4734,14 +4734,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.0853535 Eh            2.3226 eV
              Fermi-level           -0.1779953 Eh           -4.8435 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.009 sec
- SCC setup                      ...        0 min,  0.000 sec (  1.943%)
- Dispersion                     ...        0 min,  0.000 sec (  0.647%)
- classical contributions        ...        0 min,  0.000 sec (  0.301%)
- integral evaluation            ...        0 min,  0.002 sec ( 17.894%)
- iterations                     ...        0 min,  0.005 sec ( 52.939%)
- molecular gradient             ...        0 min,  0.002 sec ( 24.275%)
- printout                       ...        0 min,  0.000 sec (  1.496%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.012 sec
+ SCC setup                      ...        0 min,  0.000 sec (  1.450%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.941%)
+ classical contributions        ...        0 min,  0.000 sec (  0.507%)
+ integral evaluation            ...        0 min,  0.001 sec ( 11.788%)
+ iterations                     ...        0 min,  0.009 sec ( 70.007%)
+ molecular gradient             ...        0 min,  0.002 sec ( 13.980%)
+ printout                       ...        0 min,  0.000 sec (  0.984%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -4845,16 +4845,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:12.865     
+ * finished run on 2022/05/09 at 10:50:12.799     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.026 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.032 sec
- * ratio c/w:     1.234 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.031 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.040 sec
+ * ratio c/w:     1.289 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.009 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.015 sec
- * ratio c/w:     1.615 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.013 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.018 sec
+ * ratio c/w:     1.409 speedup
 
 
 -------------------------   --------------------
@@ -5047,7 +5047,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:12.922     
+ * started run on 2022/05/09 at 10:50:12.850     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -5061,7 +5061,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.64048881849346
+          first test random number   :      0.89632454150709
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -5164,14 +5164,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.0942822 Eh            2.5655 eV
              Fermi-level           -0.1766580 Eh           -4.8071 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.007 sec
- SCC setup                      ...        0 min,  0.000 sec (  5.784%)
- Dispersion                     ...        0 min,  0.000 sec (  0.748%)
- classical contributions        ...        0 min,  0.000 sec (  0.843%)
- integral evaluation            ...        0 min,  0.001 sec ( 18.138%)
- iterations                     ...        0 min,  0.003 sec ( 43.659%)
- molecular gradient             ...        0 min,  0.002 sec ( 26.879%)
- printout                       ...        0 min,  0.000 sec (  3.014%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.006 sec
+ SCC setup                      ...        0 min,  0.000 sec (  2.769%)
+ Dispersion                     ...        0 min,  0.000 sec (  1.454%)
+ classical contributions        ...        0 min,  0.000 sec (  0.330%)
+ integral evaluation            ...        0 min,  0.001 sec ( 18.604%)
+ iterations                     ...        0 min,  0.003 sec ( 51.347%)
+ molecular gradient             ...        0 min,  0.001 sec ( 22.635%)
+ printout                       ...        0 min,  0.000 sec (  2.084%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -5275,16 +5275,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:12.946     
+ * finished run on 2022/05/09 at 10:50:12.871     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.025 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.033 sec
- * ratio c/w:     1.352 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.020 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.032 sec
+ * ratio c/w:     1.588 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.007 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.012 sec
- * ratio c/w:     1.794 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.006 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.011 sec
+ * ratio c/w:     1.939 speedup
 
 
 -------------------------   --------------------
@@ -5474,7 +5474,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:13.009     
+ * started run on 2022/05/09 at 10:50:12.926     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -5488,7 +5488,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.55528274187773
+          first test random number   :      0.12776152177701
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -5594,13 +5594,13 @@ constraining FC (au)   :  0.0500
              Fermi-level           -0.1703892 Eh           -4.6365 eV
 
  SCC (total)                   0 d,  0 h,  0 min,  0.007 sec
- SCC setup                      ...        0 min,  0.000 sec (  1.918%)
- Dispersion                     ...        0 min,  0.000 sec (  0.951%)
- classical contributions        ...        0 min,  0.000 sec (  0.290%)
- integral evaluation            ...        0 min,  0.002 sec ( 22.286%)
- iterations                     ...        0 min,  0.003 sec ( 47.839%)
- molecular gradient             ...        0 min,  0.002 sec ( 24.312%)
- printout                       ...        0 min,  0.000 sec (  1.655%)
+ SCC setup                      ...        0 min,  0.000 sec (  3.358%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.764%)
+ classical contributions        ...        0 min,  0.000 sec (  0.349%)
+ integral evaluation            ...        0 min,  0.002 sec ( 21.540%)
+ iterations                     ...        0 min,  0.003 sec ( 46.627%)
+ molecular gradient             ...        0 min,  0.002 sec ( 25.203%)
+ printout                       ...        0 min,  0.000 sec (  1.588%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -5704,16 +5704,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:13.032     
+ * finished run on 2022/05/09 at 10:50:12.952     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.023 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.033 sec
- * ratio c/w:     1.402 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.025 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.035 sec
+ * ratio c/w:     1.392 speedup
  SCF:
  * wall-time:     0 d,  0 h,  0 min,  0.007 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.013 sec
- * ratio c/w:     1.813 speedup
+ *  cpu-time:     0 d,  0 h,  0 min,  0.014 sec
+ * ratio c/w:     1.958 speedup
 
 
 -------------------------   --------------------
@@ -5903,7 +5903,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:13.087     
+ * started run on 2022/05/09 at 10:50:13.002     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -5917,7 +5917,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.67609589056491
+          first test random number   :      0.34252375742165
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -6020,14 +6020,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.1013387 Eh            2.7576 eV
              Fermi-level           -0.1717996 Eh           -4.6749 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.009 sec
- SCC setup                      ...        0 min,  0.000 sec (  1.938%)
- Dispersion                     ...        0 min,  0.000 sec (  3.155%)
- classical contributions        ...        0 min,  0.000 sec (  0.251%)
- integral evaluation            ...        0 min,  0.001 sec ( 15.283%)
- iterations                     ...        0 min,  0.005 sec ( 57.821%)
- molecular gradient             ...        0 min,  0.002 sec ( 19.731%)
- printout                       ...        0 min,  0.000 sec (  1.318%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.008 sec
+ SCC setup                      ...        0 min,  0.000 sec (  2.886%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.558%)
+ classical contributions        ...        0 min,  0.000 sec (  2.428%)
+ integral evaluation            ...        0 min,  0.001 sec ( 15.677%)
+ iterations                     ...        0 min,  0.004 sec ( 51.079%)
+ molecular gradient             ...        0 min,  0.002 sec ( 24.263%)
+ printout                       ...        0 min,  0.000 sec (  2.380%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -6131,16 +6131,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:13.116     
+ * finished run on 2022/05/09 at 10:50:13.029     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.029 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.038 sec
- * ratio c/w:     1.325 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.027 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.035 sec
+ * ratio c/w:     1.274 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.009 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.015 sec
- * ratio c/w:     1.649 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.008 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.013 sec
+ * ratio c/w:     1.643 speedup
 
 
 -------------------------   --------------------
@@ -6328,7 +6328,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:13.168     
+ * started run on 2022/05/09 at 10:50:13.084     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -6342,7 +6342,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.42948426981743
+          first test random number   :      0.38797123216910
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -6446,14 +6446,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.1027246 Eh            2.7953 eV
              Fermi-level           -0.1703762 Eh           -4.6362 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.008 sec
- SCC setup                      ...        0 min,  0.000 sec (  2.499%)
- Dispersion                     ...        0 min,  0.000 sec (  1.229%)
- classical contributions        ...        0 min,  0.000 sec (  0.678%)
- integral evaluation            ...        0 min,  0.001 sec ( 18.198%)
- iterations                     ...        0 min,  0.004 sec ( 43.479%)
- molecular gradient             ...        0 min,  0.003 sec ( 31.717%)
- printout                       ...        0 min,  0.000 sec (  1.613%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.007 sec
+ SCC setup                      ...        0 min,  0.000 sec (  2.251%)
+ Dispersion                     ...        0 min,  0.001 sec ( 12.749%)
+ classical contributions        ...        0 min,  0.000 sec (  0.288%)
+ integral evaluation            ...        0 min,  0.001 sec ( 16.495%)
+ iterations                     ...        0 min,  0.003 sec ( 42.215%)
+ molecular gradient             ...        0 min,  0.002 sec ( 24.224%)
+ printout                       ...        0 min,  0.000 sec (  1.178%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -6557,16 +6557,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:13.196     
+ * finished run on 2022/05/09 at 10:50:13.108     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.028 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.026 sec
- * ratio c/w:     0.943 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.024 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.036 sec
+ * ratio c/w:     1.481 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.008 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.008 sec
- * ratio c/w:     0.970 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.007 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.013 sec
+ * ratio c/w:     1.742 speedup
 
 
 -------------------------   --------------------
@@ -6755,7 +6755,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:13.264     
+ * started run on 2022/05/09 at 10:50:13.165     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -6769,7 +6769,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.65412242738549
+          first test random number   :      0.74152241369216
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -6872,14 +6872,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.1062658 Eh            2.8916 eV
              Fermi-level           -0.1682655 Eh           -4.5787 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.008 sec
- SCC setup                      ...        0 min,  0.000 sec (  2.400%)
- Dispersion                     ...        0 min,  0.000 sec (  0.599%)
- classical contributions        ...        0 min,  0.000 sec (  0.292%)
- integral evaluation            ...        0 min,  0.002 sec ( 28.578%)
- iterations                     ...        0 min,  0.003 sec ( 40.265%)
- molecular gradient             ...        0 min,  0.002 sec ( 24.879%)
- printout                       ...        0 min,  0.000 sec (  1.825%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.009 sec
+ SCC setup                      ...        0 min,  0.002 sec ( 20.778%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.470%)
+ classical contributions        ...        0 min,  0.000 sec (  0.222%)
+ integral evaluation            ...        0 min,  0.001 sec ( 16.513%)
+ iterations                     ...        0 min,  0.004 sec ( 40.021%)
+ molecular gradient             ...        0 min,  0.002 sec ( 20.263%)
+ printout                       ...        0 min,  0.000 sec (  1.276%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -6983,16 +6983,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:13.307     
+ * finished run on 2022/05/09 at 10:50:13.194     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.043 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.035 sec
- * ratio c/w:     0.814 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.029 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.040 sec
+ * ratio c/w:     1.381 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.008 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.013 sec
- * ratio c/w:     1.609 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.009 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.015 sec
+ * ratio c/w:     1.688 speedup
 
 
 -------------------------   --------------------
@@ -7180,7 +7180,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:13.382     
+ * started run on 2022/05/09 at 10:50:13.248     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -7194,7 +7194,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.06177797878679
+          first test random number   :      0.82414942283775
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -7297,14 +7297,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.1069802 Eh            2.9111 eV
              Fermi-level           -0.1678658 Eh           -4.5679 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.007 sec
- SCC setup                      ...        0 min,  0.000 sec (  2.299%)
- Dispersion                     ...        0 min,  0.000 sec (  0.733%)
- classical contributions        ...        0 min,  0.000 sec (  4.815%)
- integral evaluation            ...        0 min,  0.001 sec ( 19.703%)
- iterations                     ...        0 min,  0.003 sec ( 44.256%)
- molecular gradient             ...        0 min,  0.002 sec ( 25.854%)
- printout                       ...        0 min,  0.000 sec (  1.658%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.006 sec
+ SCC setup                      ...        0 min,  0.000 sec (  3.108%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.798%)
+ classical contributions        ...        0 min,  0.000 sec (  0.340%)
+ integral evaluation            ...        0 min,  0.002 sec ( 31.966%)
+ iterations                     ...        0 min,  0.002 sec ( 40.703%)
+ molecular gradient             ...        0 min,  0.001 sec ( 20.414%)
+ printout                       ...        0 min,  0.000 sec (  1.904%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -7408,16 +7408,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:13.425     
+ * finished run on 2022/05/09 at 10:50:13.269     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.043 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.039 sec
- * ratio c/w:     0.908 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.022 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.030 sec
+ * ratio c/w:     1.393 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.008 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.014 sec
- * ratio c/w:     1.842 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.006 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.010 sec
+ * ratio c/w:     1.692 speedup
 
 
 -------------------------   --------------------
@@ -7604,7 +7604,7 @@ The optimization has not yet converged - more geometry cycles are needed
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:13.489     
+ * started run on 2022/05/09 at 10:50:13.323     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -7618,7 +7618,7 @@ The optimization has not yet converged - more geometry cycles are needed
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.71711498589943
+          first test random number   :      0.79384471405148
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -7722,13 +7722,13 @@ constraining FC (au)   :  0.0500
              Fermi-level           -0.1679907 Eh           -4.5713 eV
 
  SCC (total)                   0 d,  0 h,  0 min,  0.009 sec
- SCC setup                      ...        0 min,  0.000 sec (  2.186%)
- Dispersion                     ...        0 min,  0.000 sec (  1.048%)
- classical contributions        ...        0 min,  0.000 sec (  0.529%)
- integral evaluation            ...        0 min,  0.003 sec ( 31.760%)
- iterations                     ...        0 min,  0.004 sec ( 44.357%)
- molecular gradient             ...        0 min,  0.002 sec ( 18.590%)
- printout                       ...        0 min,  0.000 sec (  1.070%)
+ SCC setup                      ...        0 min,  0.000 sec (  3.888%)
+ Dispersion                     ...        0 min,  0.000 sec (  1.300%)
+ classical contributions        ...        0 min,  0.000 sec (  0.246%)
+ integral evaluation            ...        0 min,  0.001 sec ( 14.134%)
+ iterations                     ...        0 min,  0.003 sec ( 30.909%)
+ molecular gradient             ...        0 min,  0.004 sec ( 47.098%)
+ printout                       ...        0 min,  0.000 sec (  1.940%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -7832,16 +7832,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:13.519     
+ * finished run on 2022/05/09 at 10:50:13.346     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.030 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.027 sec
- * ratio c/w:     0.887 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.024 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.035 sec
+ * ratio c/w:     1.482 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.009 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.008 sec
- * ratio c/w:     0.864 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.010 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.015 sec
+ * ratio c/w:     1.565 speedup
 
 
 -------------------------   --------------------
@@ -8036,7 +8036,7 @@ Storing new coordinates                 .... done
    J. Pisarek, P. Pracht, J. Seibert, P. Shushkov, S. Spicher, M. Stahn
    T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2022/05/09 at 10:23:13.592     
+ * started run on 2022/05/09 at 10:50:13.401     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -8050,7 +8050,7 @@ Storing new coordinates                 .... done
           number of electrons        :                    22
           charge                     :                    -1
           spin                       :                   0.0
-          first test random number   :      0.83089794247706
+          first test random number   :      0.86966005057148
 
    ID    Z sym.   atoms
     1    6 C      1
@@ -8152,14 +8152,14 @@ constraining FC (au)   :  0.0500
                   HL-Gap            0.1067771 Eh            2.9056 eV
              Fermi-level           -0.1680184 Eh           -4.5720 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.007 sec
- SCC setup                      ...        0 min,  0.000 sec (  2.642%)
- Dispersion                     ...        0 min,  0.000 sec (  0.781%)
- classical contributions        ...        0 min,  0.000 sec (  1.136%)
- integral evaluation            ...        0 min,  0.001 sec ( 12.751%)
- iterations                     ...        0 min,  0.004 sec ( 56.831%)
- molecular gradient             ...        0 min,  0.002 sec ( 23.451%)
- printout                       ...        0 min,  0.000 sec (  1.728%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.010 sec
+ SCC setup                      ...        0 min,  0.000 sec (  1.861%)
+ Dispersion                     ...        0 min,  0.000 sec (  0.873%)
+ classical contributions        ...        0 min,  0.000 sec (  0.201%)
+ integral evaluation            ...        0 min,  0.002 sec ( 17.037%)
+ iterations                     ...        0 min,  0.004 sec ( 36.078%)
+ molecular gradient             ...        0 min,  0.002 sec ( 22.070%)
+ printout                       ...        0 min,  0.002 sec ( 21.409%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -8263,16 +8263,16 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2022/05/09 at 10:23:13.617     
+ * finished run on 2022/05/09 at 10:50:13.431     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.025 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.038 sec
- * ratio c/w:     1.525 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.030 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.041 sec
+ * ratio c/w:     1.379 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.007 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.012 sec
- * ratio c/w:     1.770 speedup
+ * wall-time:     0 d,  0 h,  0 min,  0.011 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.014 sec
+ * ratio c/w:     1.339 speedup
 
 
 -------------------------   --------------------
@@ -8306,42 +8306,42 @@ AutoCI program output          ... >optts+numfreq.lastautoci
          <<< Energy and Gradient at the input geometry >>>
 
         <<< Energy and Gradient at displaced geometries >>>
-             <<<Displacing   1/coordinate 1 (+)>>>
              <<<Displacing   1/coordinate 2 (+)>>>
+             <<<Displacing   1/coordinate 1 (+)>>>
              <<<Displacing   1/coordinate 1 (-)>>>
              <<<Displacing   1/coordinate 2 (-)>>>
              <<<Displacing   1/coordinate 3 (+)>>>
              <<<Displacing   2/coordinate 1 (+)>>>
              <<<Displacing   1/coordinate 3 (-)>>>
              <<<Displacing   2/coordinate 1 (-)>>>
+             <<<Displacing   2/coordinate 3 (+)>>>
              <<<Displacing   2/coordinate 2 (+)>>>
              <<<Displacing   2/coordinate 2 (-)>>>
-             <<<Displacing   2/coordinate 3 (+)>>>
              <<<Displacing   2/coordinate 3 (-)>>>
+             <<<Displacing   3/coordinate 2 (+)>>>
              <<<Displacing   3/coordinate 1 (+)>>>
              <<<Displacing   3/coordinate 1 (-)>>>
-             <<<Displacing   3/coordinate 2 (+)>>>
              <<<Displacing   3/coordinate 2 (-)>>>
-             <<<Displacing   3/coordinate 3 (+)>>>
-             <<<Displacing   3/coordinate 3 (-)>>>
              <<<Displacing   4/coordinate 1 (+)>>>
+             <<<Displacing   3/coordinate 3 (+)>>>
              <<<Displacing   4/coordinate 1 (-)>>>
+             <<<Displacing   3/coordinate 3 (-)>>>
              <<<Displacing   4/coordinate 2 (+)>>>
              <<<Displacing   4/coordinate 2 (-)>>>
              <<<Displacing   4/coordinate 3 (+)>>>
              <<<Displacing   4/coordinate 3 (-)>>>
-             <<<Displacing   5/coordinate 1 (+)>>>
              <<<Displacing   5/coordinate 2 (+)>>>
              <<<Displacing   5/coordinate 2 (-)>>>
+             <<<Displacing   5/coordinate 1 (+)>>>
              <<<Displacing   5/coordinate 1 (-)>>>
-             <<<Displacing   6/coordinate 1 (+)>>>
              <<<Displacing   5/coordinate 3 (+)>>>
-             <<<Displacing   6/coordinate 1 (-)>>>
              <<<Displacing   5/coordinate 3 (-)>>>
-             <<<Displacing   6/coordinate 3 (+)>>>
+             <<<Displacing   6/coordinate 1 (+)>>>
+             <<<Displacing   6/coordinate 1 (-)>>>
              <<<Displacing   6/coordinate 2 (+)>>>
-             <<<Displacing   6/coordinate 3 (-)>>>
              <<<Displacing   6/coordinate 2 (-)>>>
+             <<<Displacing   6/coordinate 3 (+)>>>
+             <<<Displacing   6/coordinate 3 (-)>>>
 
 -----------------------
 VIBRATIONAL FREQUENCIES
@@ -8598,7 +8598,7 @@ For completeness - the Gibbs free energy minus the electronic energy
 G-E(el)                           ...      0.00447518 Eh      2.81 kcal/mol
 
 
-Total Time for Numerical Frequencies  :        29.186 sec
+Total Time for Numerical Frequencies  :        28.168 sec
 
 
 
@@ -8716,8 +8716,8 @@ Step        E(Eh)      dE(kcal/mol)  max(|G|)   RMS(G)
 
 Timings for individual modules:
 
-Sum of individual times         ...        5.283 sec (=   0.088 min)
-Geometry relaxation             ...        0.817 sec (=   0.014 min)  15.5 %
-XTB module                      ...        4.467 sec (=   0.074 min)  84.5 %
+Sum of individual times         ...        4.706 sec (=   0.078 min)
+Geometry relaxation             ...        0.761 sec (=   0.013 min)  16.2 %
+XTB module                      ...        3.946 sec (=   0.066 min)  83.8 %
                              ****ORCA TERMINATED NORMALLY****
-TOTAL RUN TIME: 0 days 0 hours 0 minutes 35 seconds 468 msec
+TOTAL RUN TIME: 0 days 0 hours 0 minutes 33 seconds 889 msec
